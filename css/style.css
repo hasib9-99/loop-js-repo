@@ -3,14 +3,23 @@
     padding: 0;
 }
 h1{
-    background-color: aquamarine;
-}
-.main{
-    margin: 0 auto;
-    background-color: seagreen;
+    background-color: #186A3B;
+    color: white;
+    text-align: center;
+    display: block;
+    width: 100%;
 }
 .one{
-    background-color: cadetblue;
+    background-color: #1B4F72;
+    color: white;
+    float: left;
+    width: 100px;
+    margin: 15px;
+    padding: 5px;
+}
+.two{
+    background-color: #0E6251;
+    color: white;
     float: left;
     width: 100px;
     margin: 15px;
